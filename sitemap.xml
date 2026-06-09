@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bestice-maker.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://bestice-maker.com/best-portable-ice-makers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://bestice-maker.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://bestice-maker.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://bestice-maker.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://bestice-maker.com/ice-maker-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://bestice-maker.com/how-to-choose-ice-maker-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-what-wed-buy-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://bestice-maker.com/no-bs-ice-maker-guide-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-quality-vs-marketing.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-explained-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://bestice-maker.com/what-we-look-for-ice-maker-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-reviewed-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-compared-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-market-2026.html</loc><lastmod>2026-05-31</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-what-buyers-need-2026.html</loc><lastmod>2026-06-03</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-tested-ranked-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://bestice-maker.com/how-to-pick-ice-maker-2026.html</loc><lastmod>2026-06-06</lastmod></url>
-  <url><loc>https://bestice-maker.com/ice-maker-practical-guide-2026.html</loc><lastmod>2026-06-07</lastmod></url>
+  <url>
+    <loc>https://bestice-maker.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
